@@ -2,7 +2,7 @@ import { Serie } from './series.js';
 
 export const series = [
     new Serie (1,"Rome","Amazon", 2,"Historical drama depicting the period of history surrounding the violent transformation of the Roman Republic into the Roman Empire" ,
-    "https://www.amazon.com/Rome-Season-1/dp/B003B63FKW","https://i.imgur.com/1EwIO1C.jpeg") ,
+    "https://www.amazon.com/Rome-Season-1/dp/B003B63FKW","https://m.media-amazon.com/images/M/MV5BYTM4MmU1NWYtNzJjYy00YWFhLThjOGEtZmMxOGI1NzE0NGNiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_.jpg") ,
     
     new Serie (2,"Quantum Leap", "Amazon", 5, "American science-fiction thriller set in the near future, where the future is a virtual reality and the past is a virtual reality" ,
     "https://www.amazon.com/Quantum-Leap-Volume-1/dp/B00170I7U2","https://ringostrack.com/storage/covers/4534_quantum-leap.jpg"),
